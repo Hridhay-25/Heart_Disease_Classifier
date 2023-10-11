@@ -1,6 +1,6 @@
 # Heart_Disease_Classifier
 
-In this project a Binary classification model is used to classify whether a person has heart disease or not based on their medical information. The dataset is UCI heart-disease dataset.
+In this project a Binary classification model is used to classify whether an email is spam or ham. The dataset was obtained from kaggle.
 
 To run the project following tools must be available:
 
@@ -11,5 +11,6 @@ To run the project following tools must be available:
 5. Pandas
 6. Seaborn
 7. Matplotlib
+8. NLTK
 
 The project has a trained model in the model folder.
