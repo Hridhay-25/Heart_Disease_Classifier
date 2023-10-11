@@ -1,4 +1,4 @@
-# Heart_Disease_Classifier
+# Spam Ham Classifier
 
 In this project a Binary classification model is used to classify whether an email is spam or ham. The dataset was obtained from kaggle.
 
